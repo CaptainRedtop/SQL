@@ -148,3 +148,7 @@ SELECT name FROM Influencers
 WHERE age BETWEEN 25 AND 31;
 
 //Opgave 10:
+SELECT name FROM Brands
+WHERE Brands.brandID NOT IN (SELECT Collaborations.brandID FROM Collaborations WHERE Collaborations.platformID = (SELECT platformID FROM SocialMediaPlatforms WHERE SocialMediaPlatforms.name = 'SnapChat'));
+
+//Opgave 11:
