@@ -136,8 +136,8 @@ SELECT name FROM SocialMediaPlatforms
 WHERE averageUserAge = (SELECT MIN(averageUserAge) FROM SocialMediaPlatforms);
 
 //Opgave 7:
-SELECT name FROM Influencers, Collaborations	
-
+SELECT name FROM Influencers
+WHERE Influencers.influencerID IN (SELECT Collaborations.influencerID FROM Collaborations WHERE Collaborations.brandID = (Select brandID FROM Brands WHERE Brands.name = 'FashionCo'));	
 
 //Opgave 8:
 SELECT name FROM SocialMediaPlatforms
