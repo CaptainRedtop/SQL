@@ -1,0 +1,15 @@
+C:\Users\zbc23nksk\source\repos\Create_File\Create_File\bin\Debug\net6.0\Create_File.exe
+C:\Users\zbc23nksk\source\repos\Create_File\Create_File\bin\Debug\net6.0\Create_File.deps.json
+C:\Users\zbc23nksk\source\repos\Create_File\Create_File\bin\Debug\net6.0\Create_File.runtimeconfig.json
+C:\Users\zbc23nksk\source\repos\Create_File\Create_File\bin\Debug\net6.0\Create_File.dll
+C:\Users\zbc23nksk\source\repos\Create_File\Create_File\bin\Debug\net6.0\Create_File.pdb
+C:\Users\zbc23nksk\source\repos\Create_File\Create_File\obj\Debug\net6.0\Create_File.csproj.AssemblyReference.cache
+C:\Users\zbc23nksk\source\repos\Create_File\Create_File\obj\Debug\net6.0\Create_File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbc23nksk\source\repos\Create_File\Create_File\obj\Debug\net6.0\Create_File.AssemblyInfoInputs.cache
+C:\Users\zbc23nksk\source\repos\Create_File\Create_File\obj\Debug\net6.0\Create_File.AssemblyInfo.cs
+C:\Users\zbc23nksk\source\repos\Create_File\Create_File\obj\Debug\net6.0\Create_File.csproj.CoreCompileInputs.cache
+C:\Users\zbc23nksk\source\repos\Create_File\Create_File\obj\Debug\net6.0\Create_File.dll
+C:\Users\zbc23nksk\source\repos\Create_File\Create_File\obj\Debug\net6.0\refint\Create_File.dll
+C:\Users\zbc23nksk\source\repos\Create_File\Create_File\obj\Debug\net6.0\Create_File.pdb
+C:\Users\zbc23nksk\source\repos\Create_File\Create_File\obj\Debug\net6.0\Create_File.genruntimeconfig.cache
+C:\Users\zbc23nksk\source\repos\Create_File\Create_File\obj\Debug\net6.0\ref\Create_File.dll
