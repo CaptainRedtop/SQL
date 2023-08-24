@@ -18,6 +18,7 @@ namespace Create_File
                 {
                     Random randon = new Random();
                     int tal;
+                    //Creating file if it doesn't exist
                     if (File.Exists(path))
                     {
                         ErrorGUI(1);
@@ -31,6 +32,7 @@ namespace Create_File
                             sw.WriteLine(i.ToString() + "," + tal);
                         }
                     }
+                    //User input for exiting the app
                     var key = Console.ReadKey();
                     if (key.Key == ConsoleKey.Escape)
                     {
@@ -39,6 +41,7 @@ namespace Create_File
                 }
                 else
                 {
+                    //Delets file if it exist
                     if (File.Exists(path))
                     {
                         File.Delete(path);
@@ -60,6 +63,7 @@ namespace Create_File
         #region GUI
         static int StartGUI()
         {
+            //Main menu in a loop
             Console.Clear();
             Console.WriteLine("\nYou have the following optoins:");
             Console.WriteLine("Press 1 to create text file");
@@ -77,6 +81,7 @@ namespace Create_File
         }
         static void ErrorGUI(int error)
         {
+            //Errors if the user chooses invalid option
             switch (error)
             {
                 case 1:

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zbc23nksk\\source\\repos\\Create_File\\Create_File\\Create_File.csproj": {}
+    "C:\\Users\\zbc23nksk\\Source\\Repos\\SQL\\Create_File\\Create_File\\Create_File.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zbc23nksk\\source\\repos\\Create_File\\Create_File\\Create_File.csproj": {
+    "C:\\Users\\zbc23nksk\\Source\\Repos\\SQL\\Create_File\\Create_File\\Create_File.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zbc23nksk\\source\\repos\\Create_File\\Create_File\\Create_File.csproj",
+        "projectUniqueName": "C:\\Users\\zbc23nksk\\Source\\Repos\\SQL\\Create_File\\Create_File\\Create_File.csproj",
         "projectName": "Create_File",
-        "projectPath": "C:\\Users\\zbc23nksk\\source\\repos\\Create_File\\Create_File\\Create_File.csproj",
+        "projectPath": "C:\\Users\\zbc23nksk\\Source\\Repos\\SQL\\Create_File\\Create_File\\Create_File.csproj",
         "packagesPath": "C:\\Users\\zbc23nksk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zbc23nksk\\source\\repos\\Create_File\\Create_File\\obj\\",
+        "outputPath": "C:\\Users\\zbc23nksk\\Source\\Repos\\SQL\\Create_File\\Create_File\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zbc23nksk\\AppData\\Roaming\\NuGet\\NuGet.Config",
